@@ -11,4 +11,4 @@ The data in the csv file gives us the statewise values of the following:
 4.percentdisabled: It gives the total percentage of the people disabled in the given region. 5.literacyratedisabled : It represents the literacy rate of the disabled community in the region. 6.literacyrategeneral : It shows the total literacy rate of the population in the state. 7.workforceratedisabled : It tells us the total percent of all the disabled people that are part of the workforce in the given region.(inclusive all ages). 8.workforcerate_general : It shows the total percent of all the people that are part of the workforce in the given region(inclusive of all ages).
 
 If needed to view the html document rendered as a webpage, use
-https://htmlpreview.github.io/?https://github.com/melvin97n/Disability_in_india/edit/master/README.md
+https://htmlpreview.github.io/?https://github.com/melvin97n/Disability_in_india/blob/master/Disability_in_India.html
